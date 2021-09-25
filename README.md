@@ -1,6 +1,6 @@
 # Class5-Python-Module-Week3
 
-# Class4-PythonModule-Week3
+
 ## 1-perfect_number.py
 Perfect number: Perfect number is a positive integer that is equal to the sum of its proper divisors.
 
