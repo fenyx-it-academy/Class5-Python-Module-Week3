@@ -1,5 +1,5 @@
 ## 1-perfect_number.py
-'''
+
 def perfect ():
     perfectlist=[]
     for i in range (1,1000):        
@@ -64,4 +64,4 @@ if ans:
 else:
     print("false")
  
-'''
+
