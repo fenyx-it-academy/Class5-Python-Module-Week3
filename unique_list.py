@@ -1,5 +1,6 @@
-## 4-unique_list.py
+##4-unique_list.py
 # Write a function that filters all the unique(unrepeated) elements of a given list.
+
 def unique_list(test_list):
     res = []
     [res.append(x) for x in test_list if x not in res]
